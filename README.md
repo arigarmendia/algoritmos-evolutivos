@@ -26,3 +26,7 @@ Donde:
 
 ### Hiperparámetros
 El proyecto evalúa 5 configuraciones diferentes.
+
+## Contacto
+* [✉️](macroldan@fi.uba.ar) María Carina Roldán 
+* [✉️](arigarmendia@gmail.com) Ariadna Garmendia

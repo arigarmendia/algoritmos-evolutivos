@@ -1,4 +1,4 @@
-# Optimización de Temperatura con Algoritmos Genéticos
+# Optimización de curva de temperatura con algoritmos genéticos
 
 Proyecto de optimización que utiliza Algoritmos Genéticos (GA) con codificación decimal para ajustar un polinomio cúbico a datos de temperatura a lo largo del día.
 
@@ -21,7 +21,7 @@ Donde:
 
 ### Operadores Genéticos
 - **Selección**: Torneo (tamaño 3)
-- **Cruce**: Blend Crossover (`cxBlend`, alpha=0.5)
+- **Cruza**: Blend Crossover (`cxBlend`, alpha=0.5)
 - **Mutación**: Gaussiana (`mutGaussian`, mu=0, sigma=3.0, indpb=0.2)
 
 ### Hiperparámetros
